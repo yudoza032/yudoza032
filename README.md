@@ -34,9 +34,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudoza032&layout=compact&theme=tokyonight)
 
 ---
-
 ## 📫 Contact Me
-- ✉️ Email: yudoza032@gmail.com 
+- ✉️ Email: yudoza032@gmail.com  
+- 💼 Facebook: [facebook.com/thitikorn.phoungwan](https://www.facebook.com/thitikorn.phoungwan)  
+- 📷 Instagram: [instagram.com/udo_nadoodz](https://www.instagram.com/udo_nadoodz)  
 
 
 ---
