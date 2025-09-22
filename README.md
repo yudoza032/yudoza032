@@ -1,19 +1,19 @@
 # Hi there 👋
 
-🎓 4th Year IT Student @ Maejo University  
-💻 Aspiring Full-Stack Web Developer (React • Next.js • Spring Boot • MySQL)  
-
----
-
+🎓 **4th Year IT Student @ Maejo University**  
+💻 **Aspiring Full-Stack Web Developer** (React • Next.js • Spring Boot • MySQL)  
 
 ---
 
 ## 🚀 Projects
 
-<!-- เพิ่มโปรเจกต์ของคุณตรงนี้ -->
-- [Project Name](#) – Short description of what it does  
-- [Project Name](#) – Short description of what it does  
-- [Project Name](#) – Short description of what it does  
+Here are some of my projects:
+
+- [**Project One**](#) – Short description of what it does.  
+- [**Project Two**](#) – Short description of what it does.  
+- [**Project Three**](#) – Short description of what it does.  
+
+> 💡 *More projects coming soon!*
 
 ---
 
@@ -30,18 +30,21 @@
 ---
 
 ## 📊 GitHub Stats
-![Yudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudoza032&show_icons=true&theme=tokyonight)
+![Yudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudoza032&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yudoza032&layout=compact&theme=tokyonight)
 
 ---
+
 ## 📫 Contact Me
 - ✉️ Email: yudoza032@gmail.com  
-- 💼 Facebook: [facebook.com/thitikorn.phoungwan](https://www.facebook.com/thitikorn.phoungwan)  
-- 📷 Instagram: [instagram.com/udo_nadoodz](https://www.instagram.com/udo_nadoodz)  
-
+- 💼 Facebook: [Thitikorn Phoungwan](https://www.facebook.com/thitikorn.phoungwan)  
+- 📷 Instagram: [udo_nadoodz](https://www.instagram.com/udo_nadoodz)  
 
 ---
 
 ## ⚡ Fun Fact
-- Coffee fuels my coding sessions ☕  
-- Always exploring new web technologies 🌐
+- ☕ Coffee fuels my coding sessions  
+- 🌐 Always exploring new web technologies  
+- 🎮 Gamer at heart  
+
+---
