@@ -12,9 +12,11 @@
 
 ---
 
-## 🚀 Current Projects
-- [final6541](https://github.com/yudoza032/final6541) – Food ordering system (Spring MVC + JSP)  
-- Food-Loop – Startup project for managing surplus vegetables 🌱  
+## 🚀 Projects
+<!-- เพิ่มโปรเจกต์ของคุณตรงนี้ -->
+- [Project Name](#) – Short description of what it does  
+- [Project Name](#) – Short description of what it does  
+- [Project Name](#) – Short description of what it does  
 
 ---
 
@@ -37,13 +39,11 @@
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: your@email.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com)  
-- 🌐 Portfolio: [your-portfolio-link](#)  
+- ✉️ Email: yudoza032@gmail.com 
+
 
 ---
 
 ## ⚡ Fun Fact
 - Coffee fuels my coding sessions ☕  
-- Love solving algorithm challenges 🧩  
 - Always exploring new web technologies 🌐
